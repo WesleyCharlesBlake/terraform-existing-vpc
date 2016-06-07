@@ -30,3 +30,5 @@ To apply this:
 `$ terraform destroy`
 
 This template creates 22 resources (multiple role EC2 instances, an ELB, provisioners from template file resources used for ec2 user_data and DNS entries in Route53)
+
+Read my blog post to on Packer and TerraForm [here](http://blog.stratotechnology.com/packer-and-terraform/)
